@@ -2,5 +2,8 @@ salam
 necesen
 yaxsiyam, sen necesen?
 men de yaxsiyam
+<<<<<<< HEAD
 ok
 lll
+=======
+>>>>>>> parent of 5ffda0a (added ok)
